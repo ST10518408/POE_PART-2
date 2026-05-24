@@ -13,7 +13,6 @@ import java.io.IOException;
 public class Message {
 
     //LOGIN CLASS//
-    //part1 login fields//
     static class Login {
         private String firstName;
         private String lastName;
